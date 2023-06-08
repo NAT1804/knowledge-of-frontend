@@ -1,0 +1,14 @@
+- # JPG, JPEG
+- # PNG
+- # SVG
+- # GIF
+- # WebP
+  - là định dạng ảnh do Google tạo ra, đặc biệt dành cho việc sử dụng web
+  - ## Ưu điểm:
+    - Dung lượng nhỏ hơn PNG, JPG
+    - Hỗ trợ ảnh trong suốt
+    - Hỗ trợ ảnh động
+  - ## Nhược điểm:
+    - Chưa được hỗ trợ mọi trình duyệt
+- # Mã hóa Base64
+  - Base64 là chương trình mã hóa chuỗi ký tự
