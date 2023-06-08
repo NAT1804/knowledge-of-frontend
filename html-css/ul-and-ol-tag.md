@@ -1,0 +1,4 @@
+- Thẻ ul (unordered list, ý nghĩa: “danh sách không có thứ tự”) dùng để thể hiện một danh sách mà số thứ tự trong đó không quan trọng.
+- Thẻ ol (ordered list, ý nghĩa: “danh sách có thứ tự”) dùng để thể hiện một danh sách mà số thứ tự trong đó mang lại ý nghĩa, hoặc có quan trọng số thứ tự.
+- Thẻ li (list item, ý nghĩa: “mục trong danh sách”) được dùng làm thẻ con trong thẻ ul hoặc ol.
+- CSS có thể thay đổi styles của thẻ ul và ol từ danh sách “có thứ tự” có thể trở thành “không có thứ tự” và ngược lại. Chúng ta phải cân nhắc nên dùng thẻ nào bởi vì yếu tố ngữ nghĩa.
